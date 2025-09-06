@@ -49,7 +49,7 @@
 
                                 <li>
                                     <i class="icon_mail_alt"></i><a
-                                        href="mailto:Ecobankinfo@email.com">support@something.com</a>
+                                        href="mailto:Ecobankinfo@email.com">support@ecotrustinternational.com</a>
                                 </li>
                             </ul>
                         </div>

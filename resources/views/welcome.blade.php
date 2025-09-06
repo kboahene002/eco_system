@@ -54,7 +54,7 @@
                     <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>024 385 6398</small>
                     <small class="text-light"><i class="fa fa-envelope-open me-2"></i><a
                             href="/cdn-cgi/l/email-protection" class="__cf_email__"
-                            data-cfemail="0b62656d644b6e736a667b676e25686466">[email&#160;protected]</a></small>
+                            data-cfemail="0b62656d644b6e736a667b676e25686466">[support@ecotrustinternational.com]</a></small>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -967,7 +967,7 @@
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
                                 <p class="mb-0"><a href="/cdn-cgi/l/email-protection" class="__cf_email__"
-                                        data-cfemail="97fef9f1f8d7f2eff6fae7fbf2b9f4f8fa">[support@something.com]</a>
+                                        data-cfemail="97fef9f1f8d7f2eff6fae7fbf2b9f4f8fa">[support@ecotrustinternational.com]</a>
                                 </p>
                             </div>
                             <div class="d-flex mb-2">

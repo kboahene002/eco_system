@@ -49,7 +49,7 @@
 
                                 <li>
                                     <i class="icon_mail_alt"></i><a
-                                        href="mailto:Ecobankinfo@email.com">support@something.com</a>
+                                        href="mailto:Ecobankinfo@email.com">support@ecotrustinternational.com</a>
                                 </li>
                             </ul>
                         </div>
@@ -560,7 +560,7 @@
                             <div class="d-flex mb-2">
                                 <i class="bi bi-envelope-open text-primary me-2"></i>
                                 <p class="mb-0"><a href="/cdn-cgi/l/email-protection" class="__cf_email__"
-                                        data-cfemail="97fef9f1f8d7f2eff6fae7fbf2b9f4f8fa">[support@something.com]</a>
+                                        data-cfemail="97fef9f1f8d7f2eff6fae7fbf2b9f4f8fa">[support@ecotrustinternational.com]</a>
                                 </p>
                             </div>
                             <div class="d-flex mb-2">

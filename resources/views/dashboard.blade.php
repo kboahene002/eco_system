@@ -54,7 +54,7 @@
                     </li>
 
 
-                    
+
                 </ul>
 
                 <!-- Right side items -->
@@ -139,7 +139,7 @@
                                     <div>
                                         <h6 class="text-dark-50 mb-1" style="font-size: 0.9rem; letter-spacing: 0.5px;">AVAILABLE BALANCE</h6>
                                         <h2 class="text-dark mb-0" style="font-size: 2.8rem; font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">$43,000,000</h2>
-                                        <small class="text-dark-50">Account: ****1234</small>
+                                        <small class="text-dark-50">Account: ****4892</small>
                                     </div>
                                     <div class="text-end">
                                         <div style="width: 50px; height: 50px; background: rgba(255,255,255,0.2); border-radius: 50%; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(10px);">
@@ -281,7 +281,7 @@
                                                 </div>
                                                 <div class="mb-3">
                                                     <p class="mb-1" style="font-size: 0.9rem; opacity: 0.8;">Card Number</p>
-                                                    <h5 class="mb-0">**** **** **** 1234</h5>
+                                                    <h5 class="mb-0">**** **** **** 2795</h5>
                                                 </div>
                                                 <div class="d-flex justify-content-between align-items-end">
                                                     <div>

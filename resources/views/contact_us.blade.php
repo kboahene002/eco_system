@@ -189,7 +189,7 @@
                                     </div>
                                     <div>
                                         <p>Email us:</p>
-                                        <span>hello@ecobank.com</span>
+                                        <span>support@ecotrustinternational.combank.com</span>
                                     </div>
                                 </div>
                             </div>

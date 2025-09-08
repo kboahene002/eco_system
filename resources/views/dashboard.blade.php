@@ -138,7 +138,7 @@
                                 <div class="d-flex text-dark justify-content-between align-items-start mb-3">
                                     <div>
                                         <h6 class="text-dark-50 mb-1" style="font-size: 0.9rem; letter-spacing: 0.5px;">AVAILABLE BALANCE</h6>
-                                        <h2 class="text-dark mb-0" style="font-size: 2.8rem; font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">$43,000,000</h2>
+                                        <h2 class="text-dark mb-0" style="font-size: 2.8rem; font-weight: 700; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">$43,082,336</h2>
                                         <small class="text-dark-50">Account: ****4892</small>
                                     </div>
                                     <div class="text-end">
@@ -936,19 +936,19 @@
                             <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24" class="me-2" style="opacity: 0.8;">
                                 <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
                             </svg>
-                            <span class="text-light small" style="opacity: 0.8;">123 Financial District<br>New York, NY 10004</span>
+                            <span class="text-light small" style="opacity: 0.8;">Stanbic Height, Accra Ghana</span>
                         </div>
                         <div class="d-flex align-items-center mb-2">
                             <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24" class="me-2" style="opacity: 0.8;">
                                 <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
                             </svg>
-                            <span class="text-light small" style="opacity: 0.8;">+1 (555) 123-4567</span>
+                            <span class="text-light small" style="opacity: 0.8;">+233 024 061 5379</span>
                         </div>
                         <div class="d-flex align-items-center">
                             <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24" class="me-2" style="opacity: 0.8;">
                                 <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
                             </svg>
-                            <span class="text-light small" style="opacity: 0.8;">support@ecobank.com</span>
+                            <span class="text-light small" style="opacity: 0.8;">support@ecotrustinternational.com</span>
                         </div>
                     </div>
                 </div>

@@ -51,7 +51,7 @@
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
                     <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>Stanbic Height, Accra Ghana,
                         USA</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>024 385 6398</small>
+                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+233 024 385 6398</small>
                     <small class="text-light"><i class="fa fa-envelope-open me-2"></i><a
                             href="/cdn-cgi/l/email-protection" class="__cf_email__"
                             data-cfemail="0b62656d644b6e736a667b676e25686466">[support@ecotrustinternational.com]</a></small>
@@ -257,7 +257,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Call us to book your appointment with us now</h5>
-                            <h4 class="text-primary mb-0">024 385 6398</h4>
+                            <h4 class="text-primary mb-0">+233 024 385 6398</h4>
                         </div>
                     </div>
                     <a href="/contact" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Contact
@@ -726,7 +726,7 @@
                         </div>
                         <div class="ps-4">
                             <h5 class="mb-2">Call to ask any question</h5>
-                            <h4 class="text-primary mb-0">024 385 6398</h4>
+                            <h4 class="text-primary mb-0">+233 024 385 6398</h4>
                         </div>
                     </div>
                 </div>

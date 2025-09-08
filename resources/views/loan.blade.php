@@ -44,12 +44,12 @@
                             <ul>
                                 <li>
                                     <img class="img-fluid" src="img/phone-outline-white.png" alt="phone"><a
-                                        href="tel:01234567890">024 061 5379</a>
+                                        href="tel: 0240615379">+233 024 061 5379</a>
                                 </li>
 
                                 <li>
                                     <i class="icon_mail_alt"></i><a
-                                        href="mailto:Ecobankinfo@email.com">support@ecotrustinternational.com</a>
+                                        href="support@ecotrustinternational.com">support@ecotrustinternational.com</a>
                                 </li>
                             </ul>
                         </div>

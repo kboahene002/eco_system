@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <title>Ecobank - Banking & Business Loan Bootstrap-5 HTML Template</title>
+    <title>Ecobank - Banking & Business Loan </title>
     <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
 
     <!-- CSS here -->
@@ -44,7 +44,7 @@
                             <ul>
                                 <li>
                                     <img class="img-fluid" src="img/phone-outline-white.png" alt="phone"><a
-                                        href="tel:01234567890">024 061 5379</a>
+                                        href="tel:01234567890">+233 024 061 5379</a>
                                 </li>
 
                                 <li>
@@ -177,7 +177,7 @@
                                     </div>
                                     <div>
                                         <p>Call the helpline:</p>
-                                        <span>024 061 5379</span>
+                                        <span>+233 024 061 5379</span>
                                     </div>
                                 </div>
                             </div>
@@ -189,7 +189,7 @@
                                     </div>
                                     <div>
                                         <p>Email us:</p>
-                                        <span>support@ecotrustinternational.combank.com</span>
+                                        <span>support@ecotrustinternational.com</span>
                                     </div>
                                 </div>
                             </div>

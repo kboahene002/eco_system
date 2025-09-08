@@ -44,7 +44,7 @@
                             <ul>
                                 <li>
                                     <img class="img-fluid" src="img/phone-outline-white.png" alt="phone"><a
-                                        href="tel:01234567890">024 061 5379</a>
+                                        href="tel: 024 061 5379"> +233 024 061 5379</a>
                                 </li>
 
                                 <li>
